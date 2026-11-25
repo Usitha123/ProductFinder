@@ -1,0 +1,6 @@
+{
+  "name": "ProductFinder",
+  "description": "Internet-based product discovery search engine powered by Gemini AI and Google Search grounding to find real products from supplier websites worldwide and locally.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
